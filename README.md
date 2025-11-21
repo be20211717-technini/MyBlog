@@ -9,9 +9,9 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![Blog Status](https://img.shields.io/website?url=https%3A%2F%2Fyour-blog-link.com)](https://your-blog-link.com)
 
-**「[博客名称]」** 是一个由 `[chemic]` 创建并维护的个人博客。这里是我记录学习、分享见解和探索世界的数字花园。
+**「[me]」** 是一个由 `[chemic]` 创建并维护的个人博客。这里是我记录学习、分享见解和探索世界的数字花园。
 
-🌍 **在线访问:** [https://your-blog-link.com](https://your-blog-link.com)20211717.xyz
+🌍 **在线访问:** (https://www.20211717.xyz/)（20211717.xyz)
 
 ---
 
